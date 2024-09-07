@@ -10,7 +10,7 @@ I'm currently working on small projects to solidify my learning and contribute t
 
 ## 📫 How to Reach Me
 
-- **Email**: aminShahid258@gmail.com
+- **Email**: aminShahid5515@gmail.com
 
 ## 🌟 Fun Fact
 
