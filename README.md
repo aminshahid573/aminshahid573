@@ -41,7 +41,7 @@ I'm a tech enthusiast and aspiring software developer from the beautiful mountai
 </div>
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (dont look here 😅. I am currently studying in class 12)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aminshahid573&show_icons=true&theme=radical" alt="GitHub Stats">
