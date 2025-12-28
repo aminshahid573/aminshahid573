@@ -71,16 +71,6 @@ _(Stats will improve — consistency > numbers 😄)_
 
 ---
 
-## 🧠 Projects I Like to Build
-
-- Multi-tenant task management systems
-- Authentication & OTP verification systems
-- REST APIs using pure `net/http`
-- Background workers (email, notifications)
-- Observability (metrics, logging)
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -91,15 +81,6 @@ _(Stats will improve — consistency > numbers 😄)_
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
----
-
-## 🎯 Goals for 2025
-
-- Become **strongly proficient in Go backend development**
-- Build **3–5 production-grade backend projects**
-- Contribute to open-source Go projects
-- Move into **cloud / infrastructure-focused backend roles**
 
 ---
 
