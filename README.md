@@ -1,6 +1,6 @@
 <p><img src="https://raw.githubusercontent.com/MananJain2002/MananJain2002/main/images/github-banner.png"></p>
 
-# <div align="center">👋 Hello, I'm Shahid Amin</div>
+# <div align="center">👋 Hey, I'm Shahid Amin</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/From-Nepal-e11d48?style=for-the-badge" />
@@ -9,71 +9,69 @@
 </div>
 
 <div align="center">
-  <h3>Backend Developer • Go (Primary) & Node.js • API & Systems Oriented</h3>
+  <h3>Backend Developer building with Go & Node.js</h3>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I’m a **backend-focused developer from Nepal**, currently transitioning full-time into **Go and Node.js backend development**, with a strong emphasis on **clean architecture, scalability, and real-world production patterns**.
+Backend developer from Nepal, working primarily with **Go and Node.js**. I'm all about building solid APIs, background workers, and authentication systems that actually work in production.
 
-I enjoy building **REST APIs, background workers, authentication systems, and distributed components** using minimal frameworks and strong fundamentals.
+I focus on writing clean, maintainable code without over-engineering things. No magic frameworks—just understanding how the pieces fit together.
 
-I value:
-- Clean & idiomatic code
-- Simple, explicit architecture
-- Learning how systems work under the hood
+**What drives me:**
+- Writing code that's easy to read and maintain
+- Building systems that scale naturally
+- Understanding what's happening under the hood
 
 ---
 
-## 🧑‍💻 Tech Stack (Backend-Focused)
+## 🛠️ What I Work With
 
-### Languages
-- **Go (Primary)**
-- JavaScript / TypeScript
+**Primary Language:** Go  
+**Also Use:** JavaScript/TypeScript, Node.js
 
-### Backend & APIs
-- Go `net/http` (no heavy frameworks)
-- Node.js (Express)
-- RESTful API design
-- Authentication (JWT, OTP flows)
-- Background workers & queues
+**Backend:**
+- Go `net/http` & standard library
+- Express.js
+- REST APIs & gRPC
+- Authentication systems
+- Background jobs & message queues
 
-### Databases & Caching
-- PostgreSQL
-- MySQL
+**Databases & Caching:**
+- PostgreSQL, MySQL
 - MongoDB
 - Redis
 
-### Infrastructure & Tooling
+**Tools & Infrastructure:**
 - Git & GitHub
-- Docker (learning & using)
-- Prometheus (metrics & monitoring)
-- Linux fundamentals
+- Docker
+- Prometheus
+- Linux
 
 ---
 
-## 📊 GitHub Stats  
-_(Stats will improve — consistency > numbers 😄)_
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminshahid573&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aminshahid573&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminshahid573&layout=compact&theme=radical" height="165" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminshahid573&theme=radical" />
 </div>
 
 ---
 
-## 🔭 Current Focus
+## 🎯 Currently
 
-- Building **production-style backend projects in Go**
-- Writing **idiomatic Go** with proper project structure
-- Learning **concurrency, background jobs, and system design**
-- Preparing for **backend / cloud infrastructure roles**
+Right now I'm deep into Go—building projects that mirror real production systems, working through concurrency patterns, and figuring out how to design systems that don't fall apart when things get complex. Also spending time understanding how cloud infrastructure and deployment pipelines actually work.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Get In Touch
 
 <div align="center">
   <a href="mailto:aminShahid5515@gmail.com">
@@ -86,9 +84,9 @@ _(Stats will improve — consistency > numbers 😄)_
 
 ---
 
-## 🌄 Fun Fact
+## 🌄 Beyond Code
 
-When I’m not coding, I enjoy exploring Nepal’s landscapes, playing cricket, and reading about backend systems and engineering best practices.
+When I'm not at my desk, you'll find me exploring Nepal's mountains, playing cricket, or reading about backend architecture and engineering practices.
 
 ---
 
@@ -97,5 +95,5 @@ When I’m not coding, I enjoy exploring Nepal’s landscapes, playing cricket, 
 </div>
 
 <div align="center">
-  <i>Backend over buzzwords. Simplicity over hype.</i>
+  <i>Simple systems. Clean code. Real solutions.</i>
 </div>
