@@ -16,14 +16,7 @@
 
 ## 🚀 About Me
 
-Backend developer from Nepal, working primarily with **Go and Node.js**. I'm all about building solid APIs, background workers, and authentication systems that actually work in production.
-
-I focus on writing clean, maintainable code without over-engineering things. No magic frameworks—just understanding how the pieces fit together.
-
-**What drives me:**
-- Writing code that's easy to read and maintain
-- Building systems that scale naturally
-- Understanding what's happening under the hood
+Backend developer from Nepal. I work with **Go and Node.js** to build scalable systems. I care about writing clean code and understanding how things work under the hood.
 
 ---
 
@@ -67,7 +60,7 @@ I focus on writing clean, maintainable code without over-engineering things. No 
 
 ## 🎯 Currently
 
-Right now I'm deep into Go—building projects that mirror real production systems, working through concurrency patterns, and figuring out how to design systems that don't fall apart when things get complex. Also spending time understanding how cloud infrastructure and deployment pipelines actually work.
+Working on production-style Go projects and getting better at concurrency, system design, and cloud infrastructure.
 
 ---
 
