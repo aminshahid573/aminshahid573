@@ -1,3 +1,5 @@
+<p><img src="https://raw.githubusercontent.com/MananJain2002/MananJain2002/main/images/github-banner.png"></p>
+
 # <div align="center">👋 Hello, I'm Shahid Amin</div>
 
 <div align="center">
