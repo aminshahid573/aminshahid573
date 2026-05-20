@@ -12,7 +12,7 @@ Currently studying Cloud & Infrastructure Engineering and spending most of my ti
 Go · Docker · Kubernetes · Terraform · gRPC · Prometheus · Arch Linux BTW
 
 **Reach me:**
-[aminShahid5515@gmail.com](mailto:aminShahid5515@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aminshahid573)
+[aminShahid5515@gmail.com](mailto:aminShahid5515@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aminshahid573) · [shahidamin.com.np](https://shahidamin.com.np)
 
 ---
 
